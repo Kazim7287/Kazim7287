@@ -1,103 +1,143 @@
-# 👋 Hey there, I'm Kazim!
+<div align="center">
 
-### 🚀 Full-Stack Developer | React Enthusiast | Computer Systems Engineer
+# 👋 Hey, I'm Kazim!
 
-I'm **Muhammad Kazim Ahmad**, a passionate developer focused on building modern, scalable, and user-friendly web applications.
+### 🚀 Full-Stack Developer • React Enthusiast • Computer Systems Engineering Student
 
-💻 I enjoy turning ideas into real-world digital solutions and continuously improving my skills across **frontend, backend, databases, and cloud technologies**.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Kazim7287&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 💫 About Me
 
-* 🔭 Currently working on **Full-Stack Web Applications & SaaS Projects**
-* 🌱 Learning and improving my skills in **Full-Stack Development, System Architecture, AWS & AI/IoT**
-* 💡 Interested in building **scalable web applications and real-world technology solutions**
-* ⚡ Passionate about **React, Backend Development, Databases, and Modern Web Technologies**
-* 🎓 Computer Systems Engineering Student
-* 📫 Reach me at: **[23pwcse2233@uetpeshawar.edu.pk](mailto:23pwcse2233@uetpeshawar.edu.pk)**
+```javascript
+const kazim = {
+  name: "Muhammad Kazim Ahmad",
+  role: "Aspiring Full-Stack Developer",
+  education: "Computer Systems Engineering",
+  currentlyLearning: [
+    "Full-Stack Development",
+    "System Architecture",
+    "AWS",
+    "AI & IoT"
+  ],
+  interests: [
+    "Modern Web Applications",
+    "SaaS Products",
+    "Cloud Technologies",
+    "Real-World Problem Solving"
+  ],
+  motto: "Learn. Build. Improve. Repeat. 🚀"
+};
+```
+
+* 🔭 Currently building **Full-Stack Web Applications and SaaS Projects**
+* 🌱 Continuously learning **React, Backend Development, System Architecture, AWS, AI & IoT**
+* 💡 Passionate about transforming **ideas into scalable digital solutions**
+* ⚡ Interested in **Web Development, Databases, Cloud Computing, and Emerging Technologies**
+* 🎓 **Computer Systems Engineering Student**
+* 📫 Reach me at **[23pwcse2233@uetpeshawar.edu.pk](mailto:23pwcse2233@uetpeshawar.edu.pk)**
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 My Tech Stack
 
-### 🎨 Frontend
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,vite,bootstrap" />
-</p>
+### 🎨 Frontend Development
 
-### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=react,js,html,css,vite,bootstrap" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
-</p>
+### ⚙️ Backend Development
 
-### 🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,postman" />
-</p>
+### 🗄️ Databases & Development Tools
 
-### ☁️ Cloud & Other Technologies
+<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,postman" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,arduino" />
-</p>
+### ☁️ Cloud, IoT & Technologies
+
+<img src="https://skillicons.dev/icons?i=aws,arduino" />
+
+</div>
 
 ---
 
 ## 🛠️ What I'm Building
 
-🚀 **Full-Stack Web Applications**
-Building responsive and scalable applications using modern frontend and backend technologies.
+### 🚀 Full-Stack Web Applications
 
-🏫 **Education & SaaS Platforms**
-Working on systems designed to improve digital experiences for students and educational institutes.
+Building responsive, scalable, and user-friendly web applications using modern frontend and backend technologies.
 
-🌊 **IoT & AI-Based Flood Early Warning System**
-Exploring the integration of **IoT sensors, cloud services, historical data, and AI/ML** for real-world flood monitoring and forecasting.
+### 🏫 Education & SaaS Platforms
 
----
+Developing digital solutions and platforms designed to improve the experience of **students, educational institutes, and organizations**.
 
-## 📊 GitHub Stats
+### 🌊 IoT & AI-Based Flood Early Warning System
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kazim7287&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kazim7287&hide_border=true" />
-</p>
+Exploring the integration of **IoT sensors, cloud services, historical data, meteorological data, and AI/ML** to build intelligent flood monitoring and early-warning solutions.
 
 ---
 
-## 💻 Most Used Languages
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazim7287&layout=compact&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kazim7287&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Kazim's GitHub Stats" />
 
-## 🌐 Connect With Me
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazim7287&layout=compact&hide_border=true" alt="Kazim's Most Used Languages" />
 
-<p>
-  <a href="mailto:23pwcse2233@uetpeshawar.edu.pk">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</div>
 
-  <a href="https://github.com/Kazim7287">
-    <img src="https://img.shields.io/badge/GitHub-Kazim7287-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kazim7287&hide_border=true" alt="Kazim's GitHub Streak" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Keep learning. Keep building. Turn ideas into reality. 🚀"</i>
-</p>
+## 🐍 Contribution Graph
 
-<p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
-</p>
+<div align="center">
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Kazim7287/Kazim7287/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> ⚠️ **Note:** The contribution snake requires a GitHub Actions workflow. Remove this section until you set up the workflow.
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:23pwcse2233@uetpeshawar.edu.pk">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://github.com/Kazim7287">
+  <img src="https://img.shields.io/badge/GitHub-Kazim7287-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Keep learning. Keep building. Turn ideas into reality."* 🚀
+
+<br/>
+
+⭐ **Feel free to explore my repositories, follow my journey, and connect with me!**
+
+</div>
