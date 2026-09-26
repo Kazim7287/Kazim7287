@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Kazim!
+# Hey, I'm Kazim!
 
-### 🚀 Full-Stack Developer • React Enthusiast • Computer Systems Engineering Student
+### Full-Stack Developer • React Enthusiast • Computer Systems Engineering Student
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Kazim7287&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
