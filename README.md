@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" alt="Muhammad Kazim Ahmad — Full-Stack Developer" width="100%">
+<img src="profile-banner.png" alt="Muhammad Kazim Ahmad — Full-Stack Developer" width="100%">
 
 <br>
 
