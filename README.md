@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hey, I'm Kazim!
 
@@ -140,4 +140,47 @@ Exploring the integration of **IoT sensors, cloud services, historical data, met
 
 ⭐ **Feel free to explore my repositories, follow my journey, and connect with me!**
 
+</div> -->
+# Hi, I'm Muhammad Kazim Ahmad 👋
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-23pwcse2233%40uetpeshawar.edu.pk-red?style=for-the-badge&logo=gmail)](mailto:23pwcse2233@uetpeshawar.edu.pk)
+[![GitHub](https://img.shields.io/badge/GitHub-Kazim7287-181717?style=for-the-badge&logo=github)](https://github.com/Kazim7287)
+[![Profile Views](https://komarev.com/ghpvc/?username=Kazim7287&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Kazim7287)
+
 </div>
+
+### Full-Stack Developer | React Enthusiast | Computer Systems Engineering Student
+3+ years of hands-on experience in building modern web applications, responsive interfaces, and scalable digital products.
+
+I enjoy turning ideas into real-world solutions through clean architecture, efficient UI/UX, and reliable backend systems.
+
+---
+
+## 🚀 About Me
+
+```js
+const kazim = {
+  name: "Muhammad Kazim Ahmad",
+  role: "Full-Stack Developer",
+  experience: "3+ years",
+  education: "Computer Systems Engineering",
+  focus: [
+    "Web Development",
+    "Frontend Architecture",
+    "Backend APIs",
+    "Cloud Technologies",
+    "SaaS Products",
+    "AI & IoT Solutions"
+  ],
+  currentlyLearning: [
+    "Advanced React",
+    "Node.js & Express",
+    "AWS Cloud",
+    "System Design",
+    "AI/ML Integration"
+  ],
+  motto: "Learn. Build. Improve. Repeat. 🚀"
+};
